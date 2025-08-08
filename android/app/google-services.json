@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "96219241237",
+    "project_id": "chattify-679f0",
+    "storage_bucket": "chattify-679f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96219241237:android:7e5db56e4a845ac8ebe71c",
+        "android_client_info": {
+          "package_name": "com.example.chattify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96219241237-rbb24r019p146q3o9modk0psit9i8ma9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattify",
+            "certificate_hash": "6aa5033dd10569b2bc9be8cc2ca3916106d398c1"
+          }
+        },
+        {
+          "client_id": "96219241237-8e4c7lt5prdopd8iosirivfjjb358j2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwDRNDXFbxrSuSjTgf_Tbhm7fxVGno-4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96219241237-8e4c7lt5prdopd8iosirivfjjb358j2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96219241237-qfb7b1tepkc0fe5msqrf8pcn6etfr1bt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chattify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
