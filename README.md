@@ -57,4 +57,4 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Chattify-Flutter-App.git
+   git clone https://github.com/Ayesha-Khushnood/Chattify-Flutter-App.git
